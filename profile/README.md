@@ -18,9 +18,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Founded-2025-facc15?style=flat-square&labelColor=0f172a" alt="Founded"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HQ-Chattogram%2C%20Bangladesh-137ece?style=flat-square&labelColor=0f172a" alt="HQ"/>
+  <img src="https://img.shields.io/badge/HQ-Bangladesh-137ece?style=flat-square&labelColor=0f172a" alt="HQ"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Clients-10%2B%20Active-22c55e?style=flat-square&labelColor=0f172a" alt="Clients"/>
   &nbsp;
