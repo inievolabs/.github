@@ -280,7 +280,7 @@ We ship by a set of principles that govern every sprint, every architecture deci
 <p>
   <a href="https://inievo.com"><img src="https://img.shields.io/badge/%20-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="mailto:hello@inievo.com"><img src="https://img.shields.io/badge/%20-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hello@inievo.com"><img src="https://static.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Email" height="28"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/company/inievo"><img src="https://static.cdnlogo.com/logos/l/50/linkedin-icon_thumb.png" alt="LinkedIn" height="28"/></a>
   &nbsp;
