@@ -277,14 +277,29 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-| Channel | Details |
-|:---|:---|
-| <img src="https://img.shields.io/badge/Website-137ece?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/> | [inievo.com](https://inievo.com) |
-| <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/> | [hello@inievo.com](mailto:hello@inievo.com) |
-| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> | [linkedin.com/company/inievo](https://www.linkedin.com/company/inievo) |
-| <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X"/> | [@inievotech](https://x.com/inievotech) |
-| <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/> | [@inievo](https://www.facebook.com/inievo) |
-| <img src="https://img.shields.io/badge/Location-ea4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/> | Bangladesh · Serving Worldwide |
+<p>
+  <a href="https://inievo.com">
+    <img src="https://img.shields.io/badge/%20-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hello@inievo.com">
+    <img src="https://img.shields.io/badge/%20-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/inievo">
+    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/inievotech">
+    <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/inievo">
+    <img src="https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bangladesh%20·%20Serving%20Worldwide-ea4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 <br/>
 
