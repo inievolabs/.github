@@ -2,12 +2,10 @@
 
 <br/>
 
-<img src="https://res.cloudinary.com/dp5ap39r6/image/upload/v1777712331/Inievo_v3ow3t.png" alt="Inievo Technologies" width="200"/>
+<img src="https://res.cloudinary.com/dp5ap39r6/image/upload/v1777712331/Inievo_v3ow3t.png" alt="Inievo Technologies" width="450"/>
 
 <br/>
 <br/>
-
-<h1>Inievo Technologies</h1>
 
 <p><em>Where Ambition Meets Engineering Craft</em></p>
 
