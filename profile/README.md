@@ -274,17 +274,17 @@ Every sprint, every architecture decision, every handoff is governed by a set of
 <br/>
 
 <p>
-  <a href="https://inievo.com"><img src="https://img.shields.io/badge/%20-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  &nbsp;
-  <a href="mailto:hello@inievo.com"><img src="https://static.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Email" height="28"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/inievo"><img src="https://static.cdnlogo.com/logos/l/50/linkedin-icon_thumb.png" alt="LinkedIn" height="28"/></a>
-  &nbsp;
-  <a href="https://x.com/inievotech"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  &nbsp;
-  <a href="https://www.facebook.com/inievo"><img src="https://static.cdnlogo.com/logos/f/64/facebook-lite_thumb.png" alt="Facebook" height="28"/></a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Bangladesh%20·%20Serving%20Worldwide-ea4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+<br/>
+
+<p>
+  <a href="https://inievo.com"><img src="https://img.shields.io/badge/%20-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
+  <a href="mailto:hello@inievo.com"><img src="https://static.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Email" height="28"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/inievo"><img src="https://static.cdnlogo.com/logos/l/50/linkedin-icon_thumb.png" alt="LinkedIn" height="28"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/inievotech"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/inievo"><img src="https://static.cdnlogo.com/logos/f/64/facebook-lite_thumb.png" alt="Facebook" height="28"/></a>
 </p>
 
 <br/>
