@@ -81,12 +81,16 @@ We integrate intelligent agentic workflows and premium transaction systems to st
 
 ---
 
-## 🧪 Inievo Labs: Our Product Incubator
+## 🧪 Inievo Labs: Built by Inievo, Guided by Philosophy
 
-Through **Inievo Labs**, we design, build, and operate our own platforms. By maintaining production systems under real-world constraints, we ensure our client recommendations are battle-tested and practical.
+Through **Inievo Labs**, we design, engineer, and manage our own products. Guided by our own philosophies, these platforms are built in our workspace as non-commercial contributions to society and education. 
 
-*   **The Chattala** 🏙️ &mdash; A neighborhood connection and local community network for Chattogram.
-*   **PUC PRO** 🎓 &mdash; An AI-assisted study workspace built to withstand high exam-season traffic for university students.
+Both systems are under continuous improvement and active development (pre-official launch). However, you can preview their active versions live on their domains:
+
+*   **The Chattala** 🏙️ &mdash; A neighborhood connection and local community platform for Chattogram.
+    *   *Live Domain:* [thechattala.com](https://thechattala.com)
+*   **PUC PRO** 🎓 &mdash; An AI-assisted workspace and document hub built as an educational contribution for university students.
+    *   *Live Domain:* [puc.pro.bd](https://puc.pro.bd)
 
 ---
 
