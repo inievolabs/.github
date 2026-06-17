@@ -279,12 +279,12 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 | Channel | Details |
 |:---|:---|
-| 🌐 **Website** | [inievo.com](https://inievo.com) |
-| 📧 **Email** | [hello@inievo.com](mailto:hello@inievo.com) |
-| 💼 **LinkedIn** | [linkedin.com/company/inievo](https://www.linkedin.com/company/inievo) |
-| 𝕏 **X (Twitter)** | [@inievotech](https://x.com/inievotech) |
-| 📘 **Facebook** | [@inievo](https://www.facebook.com/inievo) |
-| 📍 **Location** | Chattogram, Bangladesh · Serving Worldwide |
+| <img src="https://img.shields.io/badge/Website-137ece?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/> | [inievo.com](https://inievo.com) |
+| <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/> | [hello@inievo.com](mailto:hello@inievo.com) |
+| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> | [linkedin.com/company/inievo](https://www.linkedin.com/company/inievo) |
+| <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X"/> | [@inievotech](https://x.com/inievotech) |
+| <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/> | [@inievo](https://www.facebook.com/inievo) |
+| <img src="https://img.shields.io/badge/Location-ea4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/> | Chattogram, Bangladesh · Serving Worldwide |
 
 <br/>
 
