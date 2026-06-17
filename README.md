@@ -33,71 +33,51 @@ We act as an embedded technology partner rather than a transactional vendor. Fro
 
 ---
 
-## 🛠️ Tech Stack & Disciplines
+## 🛠️ Technology Ecosystem & Capabilities
 
-We leverage modern, industry-standard technologies to build highly performant, type-safe, and observable platforms.
+We leverage a broad, modern technology ecosystem to design and build highly performant, type-safe, and observable platforms across web, mobile, and cloud environments.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Custom Software Engineering</h3>
-      <p>Architecting bespoke web applications, robust APIs, and modular systems that grow with your business.</p>
-      <ul>
-        <li>Next.js, FastAPI, Node.js, Python, TypeScript</li>
-        <li>Modular monoliths & microservices</li>
-        <li>Type-safe APIs & automated testing pipelines</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud Infrastructure & DevOps</h3>
-      <p>Designing resilient, auto-scaling environments optimized for security, uptime, and high velocity.</p>
-      <ul>
-        <li>AWS, Docker, Kubernetes, Terraform, AWS CDK</li>
-        <li>Infrastructure as Code (IaC) architectures</li>
-        <li>Zero-downtime deployment & multi-region failover</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI & Data Automation</h3>
-      <p>Building intelligent integrations and workflows to pipe data into decisions leadership can act on.</p>
-      <ul>
-        <li>OpenAI, Anthropic, LangChain, Vector Databases</li>
-        <li>LLM integrations with RAG (Retrieval-Augmented)</li>
-        <li>Automated workflows (CRM/ERP integrations)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Digital Branding & UI/UX</h3>
-      <p>Creating design systems and conversion-focused interfaces that elevate brands across every digital touchpoint.</p>
-      <ul>
-        <li>Figma, TailwindCSS, Framer</li>
-        <li>Research-backed UX for professional audiences</li>
-        <li>Accessibility-first, responsive design systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend & Interactive Web
+We build high-performance, conversion-focused web interfaces with scalable component architectures.
+*   **Core Stack:** Next.js, React, Vue.js, TypeScript, Tailwind CSS, Framer Motion, HTML5/CSS3
+*   **Technologies & Frameworks:**
+    
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-<br />
+### ⚙️ Backend, APIs & System Architecture
+We design robust APIs, distributed services, and microservices built for maximum throughput and security.
+*   **Core Stack:** Go, Python (FastAPI, Django), Node.js (TypeScript), Ruby on Rails
+*   **Technologies & Frameworks:**
+    
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/fastapi-%23009585.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br />
-  <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/fastapi-%23009585.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <br />
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</div>
+### 📱 Mobile Application Development
+We develop premium cross-platform and native mobile applications that feel fast, smooth, and native.
+*   **Core Stack:** Flutter, React Native, Swift (iOS), Kotlin (Android)
+*   **Technologies & Frameworks:**
+    
+    <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+
+### ☁️ Cloud, DevOps & Infrastructure
+We engineer secure, auto-scaling, and resilient infrastructure architectures with automated delivery pipelines.
+*   **Core Stack:** AWS, Google Cloud (GCP), Terraform, Kubernetes, Docker, Cloudflare, GitHub Actions
+*   **Technologies & Tooling:**
+    
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
+### 🗄️ Database, Caching & Storage Systems
+We configure high-availability data solutions tailored for speed, consistency, and analytical requirements.
+*   **Core Stack:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase
+*   **Technologies & Tooling:**
+    
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+
+### 🤖 AI, Automation & Integrations
+We integrate intelligent agentic workflows and premium transaction systems to streamline corporate processes.
+*   **Core Stack:** OpenAI, Anthropic, LangChain, Vector Databases, Python Scripts, Stripe, Shopify
+*   **Technologies & Tooling:**
+    
+    <img src="https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/stripe-%23008CD1.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 
 ---
 
