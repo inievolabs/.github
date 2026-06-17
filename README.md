@@ -179,11 +179,7 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <div align="center">
 
-<p align="center">
-  <b>🔬 INIEVO LABS</b><br/>
-  <em>Built in-house. Guided by philosophy.<br/>
-  Contributed to society. Not for profit.</em>
-</p>
+<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" alt="Inievo Labs" width="100%"/>
 
 </div>
 
