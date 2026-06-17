@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
@@ -52,7 +52,7 @@ We architect custom web and mobile platforms, resilient cloud infrastructure, an
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
@@ -68,7 +68,7 @@ We architect custom web and mobile platforms, resilient cloud infrastructure, an
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
@@ -171,7 +171,7 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
@@ -218,7 +218,7 @@ These are **not client projects**. They are built by us, for communities, to pro
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
@@ -253,7 +253,7 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781727284/ln2_dor96a.png" width="100%" alt="divider" />
+---
 
 <br/>
 
