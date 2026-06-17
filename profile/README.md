@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781425405/Inievo_ujfqno.png" alt="Inievo Technologies" width="450"/>
+<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781425405/Inievo_ujfqno.png" alt="Inievo Technologies" width="420"/>
 
 <br/>
 <br/>
@@ -10,9 +10,7 @@
 <p><em>Where Ambition Meets Engineering Craft</em></p>
 
 <p>
-  <a href="https://inievo.com">
-    <img src="https://img.shields.io/badge/inievo.com-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
+  <a href="https://inievo.com"><img src="https://img.shields.io/badge/inievo.com-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 <p>
@@ -28,8 +26,8 @@
 <br/>
 
 <p align="center">
-  <b>Custom Software · Cloud & DevOps · AI Automation · Brand & UI/UX</b><br/>
-  <em>Delivered Globally from Bangladesh</em>
+  <b>Custom Software &nbsp;·&nbsp; Cloud & DevOps &nbsp;·&nbsp; AI Automation &nbsp;·&nbsp; Brand & UI/UX</b><br/>
+  <em>Engineered in Bangladesh. Trusted Worldwide.</em>
 </p>
 
 </div>
@@ -40,15 +38,15 @@
 
 <br/>
 
-## `01` · Who We Are
+## `01` &nbsp; Who We Are
 
-> *"Every ambitious organization deserves engineers who treat their product as their own — not as another ticket in a queue."*
+> *"The difference between good software and great software is not the technology — it is the conviction of the people building it."*
 
-**Inievo Technologies** is a digital growth studio built from Bangladesh, for ambitious teams worldwide. We are not a marketplace, a staffing firm, or a template shop — we are a purpose-driven engineering partner.
+**Inievo Technologies** is a full-spectrum digital engineering firm rooted in Bangladesh and operating globally. We are not a marketplace. We are not a staffing vendor. We are not a template factory.
 
-We architect custom web and mobile platforms, resilient cloud infrastructure, and premium digital experiences — with the precision of an enterprise partner and the creative velocity of a product studio. We embed in your goals, speak plainly, and stay long after launch day.
+We are an engineering partner — one that holds itself accountable to the outcomes of the products it builds, not just the hours it bills. Our teams design, architect, and deliver custom platforms across web, mobile, cloud, and AI — with the technical depth of an enterprise consultancy and the creative urgency of a product company.
 
-<br/>
+We join your mission early, speak honestly throughout, and remain invested long after go-live. That is the Inievo standard.
 
 <br/>
 
@@ -56,15 +54,19 @@ We architect custom web and mobile platforms, resilient cloud infrastructure, an
 
 <br/>
 
-## `02` · Who We Serve
+## `02` &nbsp; Who We Serve
 
-| Audience | What We Build Together |
+We work with organizations that are serious about what they are building. Our engagements are selective by design — so that every client receives our full attention.
+
+<br/>
+
+| Client Profile | What We Deliver |
 |:---|:---|
-| 🚀 **Startups & Scale-ups** | MVPs, platform foundations, growth infrastructure |
-| 🏢 **International Enterprises** | Custom platforms, system modernization, cloud migrations |
-| 🏫 **Institutions** | Specialized portals, EdTech solutions, operational tooling |
-| 🧑‍💻 **Product Teams** | Long-term engineering partnerships, staff augmentation |
-| 💼 **Professionals** | Professional portfolios and credible web presence |
+| <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%23137ece" width="18" height="18"/> &nbsp; **Startups & Scale-ups** | MVPs, platform foundations, and the infrastructure to grow without re-architecting |
+| <img src="https://api.iconify.design/mdi/office-building-outline.svg?color=%23137ece" width="18" height="18"/> &nbsp; **International Enterprises** | Custom systems, legacy modernization, cloud migrations, and complex integrations |
+| <img src="https://api.iconify.design/mdi/school-outline.svg?color=%23137ece" width="18" height="18"/> &nbsp; **Institutions & NGOs** | Specialized portals, EdTech platforms, and purpose-built operational tooling |
+| <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23137ece" width="18" height="18"/> &nbsp; **Product Teams** | Long-term engineering partnerships and senior-level staff augmentation |
+| <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%23137ece" width="18" height="18"/> &nbsp; **Professionals & Creators** | Premium digital identity — portfolios, personal brands, and web presence built to be taken seriously |
 
 <br/>
 
@@ -72,15 +74,15 @@ We architect custom web and mobile platforms, resilient cloud infrastructure, an
 
 <br/>
 
-## `03` · Technology Ecosystem
+## `03` &nbsp; Technology Ecosystem
 
-We maintain a deliberate, broad, and production-tested stack — chosen for performance, maintainability, and global deployment. Every technology here has been used in live production environments.
+Our stack is deliberate. Every technology listed here has been deployed in real production environments — chosen for performance, long-term maintainability, and operational resilience at scale.
 
 <br/>
 
-### 🌐 Frontend & Web Interfaces
+### <img src="https://api.iconify.design/mdi/web.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; Frontend & Web Interfaces
 
-> High-performance, conversion-focused web interfaces built on scalable, type-safe component architectures.
+> High-performance, conversion-optimized web interfaces built on type-safe, scalable component architectures.
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -94,9 +96,9 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-### ⚙️ Backend, APIs & System Architecture
+### <img src="https://api.iconify.design/mdi/cog-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; Backend, APIs & System Architecture
 
-> Robust, distributed systems engineered for throughput, observability, and long-term maintainability.
+> Distributed systems engineered for throughput, observability, and sustained maintainability under production load.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -110,9 +112,9 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-### 📱 Mobile Development
+### <img src="https://api.iconify.design/mdi/cellphone.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; Mobile Development
 
-> Native-quality cross-platform and native mobile experiences for iOS and Android.
+> Native-quality cross-platform and native mobile experiences — shipped on time, polished on every screen.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -124,9 +126,9 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-### ☁️ Cloud Infrastructure & DevOps
+### <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; Cloud Infrastructure & DevOps
 
-> Secure, auto-scaling, multi-region architectures with automated CI/CD pipelines and full observability.
+> Secure, auto-scaling, multi-region architectures with automated CI/CD pipelines and end-to-end observability.
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -141,9 +143,9 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-### 🗄️ Databases, Caching & Storage
+### <img src="https://api.iconify.design/mdi/database-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; Databases, Caching & Storage
 
-> High-availability data architectures tuned for speed, consistency, and analytical scale.
+> High-availability data architectures tuned for consistency, query performance, and analytical scale.
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -157,9 +159,9 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-### 🤖 AI, Automation & Third-Party Integrations
+### <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp; AI, Automation & Integrations
 
-> Intelligent workflow automation, LLM-powered systems, and commerce-grade payment integrations.
+> Intelligent workflow automation, LLM-powered product features, and commerce-grade payment and platform integrations.
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -175,7 +177,7 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <br/>
 
-## `04` · Inievo Labs
+## `04` &nbsp; Inievo Labs
 
 <div align="center">
 
@@ -183,30 +185,32 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 </div>
 
-Inievo Labs is our internal engineering studio where we build, own, and operate our own platforms — entirely in-house, guided by our own philosophies, as deliberate non-commercial contributions to society and education.
+<br/>
 
-These are **not client projects**. They are built by us, for communities, to prove a model, hone our craft, and give back.
+**Inievo Labs** is our internal product studio — where we build, own, and operate our own platforms from the ground up. No clients. No briefs. Just our engineers, our instincts, and our responsibility to real users.
 
-> Both platforms are live, active, and continuously under improvement. They are **pre-official-launch** — meaning they are being refined toward a full public release — but available to explore today.
+These platforms are not side projects. They are live, fully operational products built to prove out our methodologies under genuine production conditions — and to contribute something of lasting value to the communities they serve.
+
+> Both platforms are currently live and actively improving. They are in a pre-official-launch phase — being refined toward a full public release — but available to explore right now.
 
 <br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏙️ The Chattala</h3>
-      <p>A neighborhood connection and local community platform for Chattogram. Built as a social contribution to connect people at the hyperlocal level — fostering community identity, local discovery, and civic engagement.</p>
+      <h3><img src="https://api.iconify.design/mdi/city-variant-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp;The Chattala</h3>
+      <p>A hyperlocal neighborhood platform built for Chattogram — designed to strengthen community identity, surface local discovery, and enable civic participation at the street level. Our contribution to the city we call home.</p>
       <p>
         <strong>Status:</strong> <code>Active · Pre-Launch · Continuously Improving</code><br/>
-        <strong>Domain:</strong> <a href="https://thechattala.com"><strong>thechattala.com</strong></a>
+        <strong>Live at:</strong> <a href="https://thechattala.com"><strong>thechattala.com</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 PUC PRO</h3>
-      <p>An AI-assisted study workspace and document hub built as an educational contribution for university students. Designed to handle the surge of exam-season traffic and give students a smarter academic toolkit.</p>
+      <h3><img src="https://api.iconify.design/mdi/school-outline.svg?color=%23137ece" width="22" height="22" align="center"/> &nbsp;PUC PRO</h3>
+      <p>An AI-assisted academic workspace built for university students — featuring intelligent document handling, study tools, and the infrastructure to stay online when exam-season traffic spikes. Education made smarter.</p>
       <p>
         <strong>Status:</strong> <code>Active · Pre-Launch · Continuously Improving</code><br/>
-        <strong>Domain:</strong> <a href="https://puc.pro.bd"><strong>puc.pro.bd</strong></a>
+        <strong>Live at:</strong> <a href="https://puc.pro.bd"><strong>puc.pro.bd</strong></a>
       </p>
     </td>
   </tr>
@@ -218,31 +222,31 @@ These are **not client projects**. They are built by us, for communities, to pro
 
 <br/>
 
-## `05` · Our Engineering Philosophy
+## `05` &nbsp; How We Work
 
-We ship by a set of principles that govern every sprint, every architecture decision, and every client handoff.
+Every sprint, every architecture decision, every handoff is governed by a set of principles we do not negotiate on.
 
 <br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤝 Partnership, Not Transactions</h4>
-      <p>We embed in your team. We align on outcomes before writing code. Long-term alliance, not invoice.</p>
+      <h4><img src="https://api.iconify.design/mdi/handshake-outline.svg?color=%2322c55e" width="20" height="20" align="center"/> &nbsp; Partnership Over Transactions</h4>
+      <p>We embed in your team. We align on outcomes before we write a single line of code. What you get is a long-term engineering alliance — not a vendor relationship managed by invoices.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Engineering Without Compromise</h4>
-      <p>Clean architecture, tested code, performance budgets. Non-negotiable on every engagement.</p>
+      <h4><img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23f97316" width="20" height="20" align="center"/> &nbsp; Engineering Without Compromise</h4>
+      <p>Clean architecture. Tested, reviewable code. Defined performance budgets. These are not aspirational — they are baseline expectations on every engagement we take on.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Radical Transparency</h4>
-      <p>Full IP ownership. Direct access to engineers. No hidden scope. No vendor lock-in. Ever.</p>
+      <h4><img src="https://api.iconify.design/mdi/shield-check-outline.svg?color=%23a855f7" width="20" height="20" align="center"/> &nbsp; Radical Transparency</h4>
+      <p>Full IP ownership transferred to you. Direct engineer access. No hidden scope. No surprise dependencies. No vendor lock-in — ever. We earn trust through clarity, not contracts.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔬 Research-Driven Development</h4>
-      <p>Inievo Labs keeps our instincts sharp and our solutions grounded in real users and real traffic.</p>
+      <h4><img src="https://api.iconify.design/mdi/microscope.svg?color=%23facc15" width="20" height="20" align="center"/> &nbsp; Research-Driven Development</h4>
+      <p>Inievo Labs keeps our instincts calibrated against real users and real traffic — so that every solution we recommend is grounded in evidence, not assumptions.</p>
     </td>
   </tr>
 </table>
@@ -253,26 +257,18 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-## `06` · Work With Us
+## `06` &nbsp; Work With Us
 
 <div align="center">
 
 <h3>Ready to build something worth scaling?</h3>
 
-<p>Share your goals and we respond within one business day.</p>
+<p>Tell us what you are working toward. We will respond within one business day.</p>
 
 <p>
-  <a href="https://inievo.com/contact">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-facc15?style=for-the-badge&logoColor=black" alt="Start a Conversation"/>
-  </a>
-  &nbsp;
-  <a href="https://inievo.com/services">
-    <img src="https://img.shields.io/badge/Explore%20Services-137ece?style=for-the-badge&logoColor=white" alt="Explore Services"/>
-  </a>
-  &nbsp;
-  <a href="https://inievo.com/projects">
-    <img src="https://img.shields.io/badge/View%20Our%20Work-0f172a?style=for-the-badge&logoColor=white" alt="View Work"/>
-  </a>
+  <a href="https://inievo.com/contact"><img src="https://img.shields.io/badge/Start%20a%20Conversation-facc15?style=for-the-badge&logoColor=black" alt="Start a Conversation"/></a>&nbsp;
+  <a href="https://inievo.com/services"><img src="https://img.shields.io/badge/Explore%20Our%20Services-137ece?style=for-the-badge&logoColor=white" alt="Explore Services"/></a>&nbsp;
+  <a href="https://inievo.com/projects"><img src="https://img.shields.io/badge/View%20Our%20Work-0f172a?style=for-the-badge&logoColor=white" alt="View Work"/></a>
 </p>
 
 <br/>
@@ -284,7 +280,7 @@ We ship by a set of principles that govern every sprint, every architecture deci
   &nbsp;
   <a href="https://www.linkedin.com/company/inievo"><img src="https://static.cdnlogo.com/logos/l/50/linkedin-icon_thumb.png" alt="LinkedIn" height="28"/></a>
   &nbsp;
-  <a href="https://x.com/inievotech"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/inievotech"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
   &nbsp;
   <a href="https://www.facebook.com/inievo"><img src="https://static.cdnlogo.com/logos/f/64/facebook-lite_thumb.png" alt="Facebook" height="28"/></a>
   &nbsp;
@@ -293,6 +289,6 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-<sub>Built with intention. Maintained with care. Scaled with rigor. · © 2026 Inievo Technologies</sub>
+<sub>Built with intention. &nbsp;Maintained with care. &nbsp;Scaled with rigor. &nbsp;·&nbsp; © 2026 Inievo Technologies</sub>
 
 </div>
