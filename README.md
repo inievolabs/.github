@@ -44,7 +44,7 @@
 
 > *"Every ambitious organization deserves engineers who treat their product as their own — not as another ticket in a queue."*
 
-**Inievo Technologies** is a digital growth studio built from Chattogram, Bangladesh, for ambitious teams worldwide. We are not a marketplace, a staffing firm, or a template shop — we are a purpose-driven engineering partner.
+**Inievo Technologies** is a digital growth studio built from Bangladesh, for ambitious teams worldwide. We are not a marketplace, a staffing firm, or a template shop — we are a purpose-driven engineering partner.
 
 We architect custom web and mobile platforms, resilient cloud infrastructure, and premium digital experiences — with the precision of an enterprise partner and the creative velocity of a product studio. We embed in your goals, speak plainly, and stay long after launch day.
 
@@ -284,7 +284,7 @@ We ship by a set of principles that govern every sprint, every architecture deci
 | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> | [linkedin.com/company/inievo](https://www.linkedin.com/company/inievo) |
 | <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X"/> | [@inievotech](https://x.com/inievotech) |
 | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/> | [@inievo](https://www.facebook.com/inievo) |
-| <img src="https://img.shields.io/badge/Location-ea4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/> | Chattogram, Bangladesh · Serving Worldwide |
+| <img src="https://img.shields.io/badge/Location-ea4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/> | Bangladesh · Serving Worldwide |
 
 <br/>
 
