@@ -31,7 +31,7 @@
 
 <p align="center">
   <b>Custom Software · Cloud & DevOps · AI Automation · Brand & UI/UX</b><br/>
-  <em>Delivered Globally from Chattogram</em>
+  <em>Delivered Globally from Bangladesh</em>
 </p>
 
 </div>
