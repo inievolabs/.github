@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://res.cloudinary.com/dp5ap39r6/image/upload/v1777712331/Inievo_v3ow3t.png" alt="Inievo Technologies" width="450"/>
+<img src="https://res.cloudinary.com/dgcnhseqm/image/upload/v1781425405/Inievo_ujfqno.png" alt="Inievo Technologies" width="450"/>
 
 <br/>
 <br/>
