@@ -288,6 +288,6 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-<sub>Built with intention. Maintained with care. Scaled with rigor. · © 2025–2026 Inievo Technologies</sub>
+<sub>Built with intention. Maintained with care. Scaled with rigor. · © 2026 Inievo Technologies</sub>
 
 </div>
