@@ -62,6 +62,7 @@ We architect custom web and mobile platforms, resilient cloud infrastructure, an
 | 🏢 **International Enterprises** | Custom platforms, system modernization, cloud migrations |
 | 🏫 **Institutions** | Specialized portals, EdTech solutions, operational tooling |
 | 🧑‍💻 **Product Teams** | Long-term engineering partnerships, staff augmentation |
+| 💼 **Professionals** | Professional portfolios and credible web presence |
 
 <br/>
 
