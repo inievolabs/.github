@@ -286,7 +286,7 @@ We ship by a set of principles that govern every sprint, every architecture deci
   &nbsp;
   <a href="https://x.com/inievotech"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   &nbsp;
-  <a href="https://www.facebook.com/inievo"><img src="https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/inievo"><img src="https://static.cdnlogo.com/logos/f/64/facebook-lite_thumb.png" alt="Facebook" height="28"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Bangladesh%20·%20Serving%20Worldwide-ea4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
