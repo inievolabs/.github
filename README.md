@@ -15,18 +15,6 @@
   <a href="https://inievo.com">
     <img src="https://img.shields.io/badge/inievo.com-137ece?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:hello@inievo.com">
-    <img src="https://img.shields.io/badge/hello@inievo.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/company/inievo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/inievotech">
-    <img src="https://img.shields.io/badge/@inievotech-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://facebook.com/inievo">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
 </p>
 
 <p>
