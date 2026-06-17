@@ -29,12 +29,10 @@
 
 <br/>
 
-```
-  ┌───────────────────────────────────────────────────────────────────────────────┐
-  │   Custom Software  ·  Cloud & DevOps  ·  AI Automation  ·  Brand & UI/UX     │
-  │                         Delivered Globally from Chattogram                    │
-  └───────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <b>Custom Software · Cloud & DevOps · AI Automation · Brand & UI/UX</b><br/>
+  <em>Delivered Globally from Chattogram</em>
+</p>
 
 </div>
 
@@ -177,13 +175,11 @@ We maintain a deliberate, broad, and production-tested stack — chosen for perf
 
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                       🔬  INIEVO LABS                           │
-  │           Built in-house. Guided by philosophy.                 │
-  │        Contributed to society. Not for profit.                  │
-  └─────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <b>🔬 INIEVO LABS</b><br/>
+  <em>Built in-house. Guided by philosophy.<br/>
+  Contributed to society. Not for profit.</em>
+</p>
 
 </div>
 
@@ -228,23 +224,28 @@ We ship by a set of principles that govern every sprint, every architecture deci
 
 <br/>
 
-```
-  ┌─────────────────────────────────────┐   ┌─────────────────────────────────────┐
-  │  🤝 Partnership, Not Transactions   │   │  ⚡ Engineering Without Compromise  │
-  │                                     │   │                                     │
-  │  We embed in your team. We align    │   │  Clean architecture, tested code,   │
-  │  on outcomes before writing code.   │   │  performance budgets. Non-          │
-  │  Long-term alliance, not invoice.   │   │  negotiable on every engagement.    │
-  └─────────────────────────────────────┘   └─────────────────────────────────────┘
-
-  ┌─────────────────────────────────────┐   ┌─────────────────────────────────────┐
-  │  🛡️ Radical Transparency            │   │  🔬 Research-Driven Development     │
-  │                                     │   │                                     │
-  │  Full IP ownership. Direct access   │   │  Inievo Labs keeps our instincts    │
-  │  to engineers. No hidden scope.     │   │  sharp and our solutions grounded   │
-  │  No vendor lock-in. Ever.           │   │  in real users and real traffic.    │
-  └─────────────────────────────────────┘   └─────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤝 Partnership, Not Transactions</h4>
+      <p>We embed in your team. We align on outcomes before writing code. Long-term alliance, not invoice.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Engineering Without Compromise</h4>
+      <p>Clean architecture, tested code, performance budgets. Non-negotiable on every engagement.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Radical Transparency</h4>
+      <p>Full IP ownership. Direct access to engineers. No hidden scope. No vendor lock-in. Ever.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 Research-Driven Development</h4>
+      <p>Inievo Labs keeps our instincts sharp and our solutions grounded in real users and real traffic.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
